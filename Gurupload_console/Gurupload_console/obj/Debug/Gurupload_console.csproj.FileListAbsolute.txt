@@ -1,0 +1,11 @@
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\bin\Debug\Gurupload_console.exe.config
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\bin\Debug\Gurupload_console.exe
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\bin\Debug\Gurupload_console.pdb
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\bin\Debug\Imgur.API.dll
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\bin\Debug\Imgur.API.xml
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\obj\Debug\Gurupload_console.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\obj\Debug\Gurupload_console.csproj.CopyComplete
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\obj\Debug\Gurupload_console.exe
+C:\Users\Dev\source\repos\Gurupload_console\Gurupload_console\obj\Debug\Gurupload_console.pdb
